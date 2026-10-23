@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,723
+Guess the date represented by this image for the invention of the gatling gun.
+
+2
+00:00:07,020 --> 00:00:09,020
+I use a light bulb to represent the 1800s.
+
+3
+00:00:09,992 --> 00:00:11,992
+Using the mnemonic major system, the sheet represents the number 61.
+
+4
+00:00:16,765 --> 00:00:25,010
+The scene description that TimeToTime generates, shows that the gatling gun is acting on the sheet, representing its invention.
+
+5
+00:00:26,140 --> 00:00:31,968
+ So there we have it. The gatling gun, invented in 1861
+
+6
+00:00:31,968 --> 00:00:35,834
+Memorise this date, and many more, in TimeToTime.app 
+

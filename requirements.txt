@@ -1,0 +1,6 @@
+kokoro==0.9.4
+numpy==2.5.4
+pydub==0.25.1
+soundfile==0.14.0
+torch==2.14.1
+transformers==5.19.0
